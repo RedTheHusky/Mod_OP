@@ -1,4 +1,4 @@
-0.Lobby~Black Gazza(175,200,1346)
+20.Lobby~Black Gazza(175,200,1346)
 20.Main~Black Gazza(200,173,1346)
 15.Medical~Black Gazza(199,173,1301)
 12.Yard~Black Gazza(199,172,1255)
