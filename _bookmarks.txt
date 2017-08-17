@@ -1,5 +1,7 @@
+Lobby~Black Gazza(121,138,1376)
 Security~Black Gazza(134,126,1371)
 Medical~Black Gazza(134,125,1336)
+Mechanical~Black Gazza(119,128,1306)
 Barracks~Black Gazza(134,125,1276)
 Prison~Black Gazza(130,130,1241)
 Green~Black Gazza(142,142,1236)
